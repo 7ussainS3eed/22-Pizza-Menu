@@ -1,3 +1,7 @@
+Walkthrough Video...<br>https://drive.google.com/file/d/1mRtXKp_zlct6q_V7JE-9mfHPgyQ6Y1S-/view?usp=drive_link
+<br><br>
+Live Demo (Not fully responsive, best on PC)...<br>https://7ussains3eed.github.io/22-Pizza-Menu/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
